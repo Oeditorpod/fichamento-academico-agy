@@ -1,0 +1,17 @@
+{
+  "name": "fichamento-academico-agy",
+  "displayName": "Fichamento Acadêmico Rigoroso (Anti / AGY)",
+  "version": "2.1.0",
+  "description": "Edição dedicada para o assistente Anti (Google Antigravity) do plugin de fichamento acadêmico rigoroso: escolha automática do tipo, referência ABNT e APA, citações com página ou artigo conferidas no original, frases prontas para o texto, parecer crítico e índice com pendências.",
+  "author": {
+    "name": "Oeditorpod",
+    "url": "https://github.com/Oeditorpod"
+  },
+  "homepage": "https://github.com/Oeditorpod/fichamento-academico-agy",
+  "repository": "https://github.com/Oeditorpod/fichamento-academico-agy",
+  "suggestedPrompts": [
+    "Ficha todos os arquivos da pasta referencias",
+    "Ficha este artigo científico com citações ABNT e APA verificadas",
+    "Confere as citações dos fichamentos contra os PDFs originais"
+  ]
+}

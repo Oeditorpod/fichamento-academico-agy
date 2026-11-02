@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.system_generated/
+scratch/
+amostras/
+amostra/
+extraidos/
+
+# Arquivos de trabalho, PDFs e fichamentos gerados (evita commit acidental de dados pessoais)
+*.pdf
+*.txt
+*.docx
+*.doc
+*.epub
+*.xlsx
+fichamento_*.md
+_indice*.md
+_conferencia*.md
